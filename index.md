@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DREAM Project Site
+title: Final Programming Fundamentals Project
 ---
 
 * TOC
@@ -8,11 +8,7 @@ title: DREAM Project Site
 
 ## About Me
 
-My info goes here.
-
-## About My Advisor
-
-Advisor info goes here.
+I am a sophomore in high school. This page is dedicated to my final project for my Programming Fundamentals class. Over the course of 10 days, I will develop a coding project.
 
 ## About My Project
 
