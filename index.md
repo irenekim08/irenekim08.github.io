@@ -3,8 +3,7 @@ layout: default
 title: Final Programming Fundamentals Project
 ---
 
-* TOC
-{:toc}
+
 
 ## About Me
 
