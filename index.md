@@ -8,13 +8,13 @@ title: Final Programming Fundamentals Project
 
 ## About Me
 
-I am a sophomore in high school. This page is dedicated to my final project for my Programming Fundamentals class. Over the course of 9 days, I will develop a coding project that analyzes Google Form responses to help grant applicants reach their best fit grants. (More detail in Blog)
+I am a sophomore in high school. This page is dedicated to my final project for my Programming Fundamentals class. This page walks through 10 days of developing an app to help grant applicants reach their best fit grants. You can follow my journey in my blog.
 
-## About My Project
+## About the Uni Grant Matcher
 
-Project description goes here.
-
-[My Final Report](files/finalreport.pdf)
+The Uni Grant Matcher is a Streamlit app that uses the user's input of association with the school and selection of uses for the money to lead the applicant to their best fit application form.
+[Uni Grant Matcher App](https://uni-grant-matcher.streamlit.app/)
+[Uni Grant Matcher Code](https://github.com/irenekim08/uni-grant-matcher/blob/1ac95577652bee7822aa1d2626a74a8aaba623ba/streamlit_app.py)
 
 ## My Blog
 
